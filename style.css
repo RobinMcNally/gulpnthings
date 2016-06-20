@@ -1,0 +1,9 @@
+body {
+  background-color: #BBBBBB;
+  color: #FFFFFF; }
+
+#list {
+  margin: 0 auto;
+  width: 70%;
+  background-color: #153F8B;
+  border-radius: 5px; }
